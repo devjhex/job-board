@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family:'sofia';
+    src: url('./fonts/SofiaSans-VariableFont_wght.ttf');
+}

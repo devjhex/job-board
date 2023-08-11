@@ -8,3 +8,6 @@ For this project I used HTML for markup and Tailwind CSS for the styling of the 
 
 ## Screenshots
 ![Screenshot](./images/design.png)
+
+## What i learned
+I learned that with HTML and CSS alone from scratch, it is not easy to build because you are actually making components yourself and since i was disciplined not to use any JavaScript I was forced to use all the functionality that CSS has to make it possible to make it work well. It didn't come out perfectly as per now but I am to continue making changes on my markup and since I am going to repeat this project with JavaScript it will soon be better.
